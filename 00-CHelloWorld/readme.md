@@ -1,1 +1,1 @@
-Compilador C18
+C18
